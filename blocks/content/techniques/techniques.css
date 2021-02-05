@@ -1,0 +1,15 @@
+@import"./cards/__description/cards__description.css";
+@import"./cards/__img/cards__img.css";
+@import"./cards/__item/cards__item.css";
+@import"./cards/__title/cards__title.css";
+@import"./section-title/section-subtitle.css";
+@import"./section-title/section-title.css";
+@import "./cards/cards.css";
+.techniques {
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:0px;
+  }

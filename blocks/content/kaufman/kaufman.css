@@ -1,0 +1,15 @@
+@import "./table/table.css";
+@import "./section-subtitle/_theme/_dark/section-subtitle_theme_dark.css";
+@import "./section-title/_theme/_dark/section-title_theme_dark.css";
+@import "./__triangle/kaufman__triangle.css";
+.kaufman {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #1f1f1f;
+    color: white;
+    padding:90px 0px 0px 0px;
+    overflow: hidden;
+    position: relative;
+    }
