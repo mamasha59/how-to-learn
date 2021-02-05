@@ -7,7 +7,7 @@
     margin: 0 auto;
     /* выше для экранов больше 1600px отцентрировали весь контент */
   }
-  a:hover{
+  /* a:hover{
     opacity: 0.5;
     transition: ease 0.5s;
-  }
+  } */

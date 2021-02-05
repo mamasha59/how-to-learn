@@ -1,4 +1,4 @@
-@import "./__cell/_theme/_dark/table__cell_theme_dark.css";
-@import "./__heading/_theme/_dark/table__headin_theme_dark.css";
-@import "./__text/_theme/_dark/table__text_theme_dark.css";
-@import "./_theme/_dark/table_theme_dark.css";
+@import "./__cell/_theme/table__cell_theme_dark.css";
+@import "./__heading/_theme/table__headin_theme_dark.css";
+@import "./__text/_theme/table__text_theme_dark.css";
+@import "./_theme/table_theme_dark.css";
