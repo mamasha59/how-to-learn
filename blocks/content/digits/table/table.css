@@ -1,6 +1,3 @@
-@import "./__cell/table__cell.css";
-@import "./__heading/table__heading.css";
-@import "./__text/table__text.css";
 .table{
     display: flex;
     justify-content: space-between;
